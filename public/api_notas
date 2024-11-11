@@ -1,0 +1,21 @@
+https://www.youtube.com/watch?v=z7w3S3l5leA&t=1062s
+
+36:45
+
+O que é uma api? Application Program Interface
+Geralmente é um software que fornece algo para outro software
+
+Rest siguinifica: REpresentational State Transfer. É um estilo de desenvolver web api's, onde se utiliza uma forma de conexão
+cliente e sevidor imutável e é utilizado o HTTP para isso.
+
+métodos HTTP:
+GET=Recebe dados de um recurso específico
+POST=Envia dados para serem processador por um recurso específico
+PUT=Atualiza um recurso específico
+DELETE=Deleta um recurso específico
+HEAD,OPTIONS,PATCH
+
+Um endpoint é aonde o cliente se conecta com a API. Por exemplo: uma url
+
+json_encode() -> é uma função php que pega uma coleção de dados, normalmente um array(associativo ou não),
+e transforma em um json.
